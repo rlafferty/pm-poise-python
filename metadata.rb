@@ -4,7 +4,7 @@ maintainer_email 'ross.lafferty@gmail.com'
 license 'all_rights'
 description 'Installs/Configures pm-poise-python'
 long_description 'Installs/Configures pm-poise-python'
-version '1.0.0'
+version '1.0.1'
 
 supports 'debian'
 
